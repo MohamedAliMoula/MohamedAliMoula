@@ -9,10 +9,6 @@
 - 🚀 Ingénieur en informatique en formation à l'ESPRIT.
 - 🌐 Spécialisé en développement web, avec un penchant pour les technologies Angular et JavaScript.
 - 🎯 Transformer les défis technologiques en innovations créatives.
-## 🌟 Ce que je fais
-- 💻 Créer des solutions web interactives et modernes.
-- 🌐 Explorer des applications de réalité augmentée et e-commerce.
-- 📊 Connecter des applications web à des systèmes de gestion de bases
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
