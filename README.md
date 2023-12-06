@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-ali-moula-5a9a7411b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-moula-5a9a7411b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-ali-moula-5a9a7411b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ali moula" height="30" width="40" /></a>
 <a href="https://fb.com/mouhamedali.moula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouhamedali.moula" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_ali_moula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_ali_moula" height="30" width="40" /></a>
 </p>
