@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Moula</h1>
-<h5 align="center">- ## 💡 En bref
+ ## 💡 En bref
 - 🚀 Ingénieur en informatique en formation à l'ESPRIT.
 - 🌐 Spécialisé en développement web et en applications de réalité virtuelle.
-- 🎯 Transformer les défis technologiques en innovations créatives.</h5>
+- 🎯 Transformer les défis technologiques en innovations créatives.
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalimoula&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalimoula" /> </p>
