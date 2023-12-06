@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalimoula&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalimoula" /> </p>
 
 - 📫 How to reach me **Mohamedalimoula@gmail.com**
-# 👋 Salut, je suis [Votre Nom] - Passionné de Développement Web et de Réalité Virtuelle!
 
 ## 💡 En bref
 - 🚀 Ingénieur en informatique en formation à l'ESPRIT.
