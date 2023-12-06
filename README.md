@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Moula</h1>
-<h3 align="center">- 🎯 Transformer les défis technologiques en innovations créatives.</h3>
+<h3 align="center">- ## 💡 En bref
+- 🚀 Ingénieur en informatique en formation à l'ESPRIT.
+- 🌐 Spécialisé en développement web et en applications de réalité virtuelle.
+- 🎯 Transformer les défis technologiques en innovations créatives.</h3>
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalimoula&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalimoula" /> </p>
 
 - 📫 How to reach me **Mohamedalimoula@gmail.com**
 
-## 💡 En bref
-- 🚀 Ingénieur en informatique en formation à l'ESPRIT.
-- 🌐 Spécialisé en développement web et en applications de réalité virtuelle.
-- 🎯 Transformer les défis technologiques en innovations créatives.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ali-moula-5a9a7411b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ali-moula-5a9a7411b/" height="30" width="40" /></a>
